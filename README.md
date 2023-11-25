@@ -10,7 +10,7 @@
 
 - 👨‍💻 Atualmente estudo ciências de dados, desde a manipulação à visualização.
 
-- 🌎 Meu portifólio pessoal entá disponível em [renanguedes.github.io](https://renangueds.github.io/)
+- 🌎 Meu portifólio pessoal entá disponível em [renangueds.github.io/portfolio](https://renangueds.github.io/portfolio/)
 
 <br><br>
 
